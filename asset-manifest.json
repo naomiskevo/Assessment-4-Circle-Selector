@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/assessment-4-circle-selector/static/css/main.2ddb3bd6.chunk.css",
+    "main.js": "/assessment-4-circle-selector/static/js/main.e927a536.chunk.js",
+    "main.js.map": "/assessment-4-circle-selector/static/js/main.e927a536.chunk.js.map",
+    "runtime-main.js": "/assessment-4-circle-selector/static/js/runtime-main.09569dc3.js",
+    "runtime-main.js.map": "/assessment-4-circle-selector/static/js/runtime-main.09569dc3.js.map",
+    "static/js/2.ec0babb7.chunk.js": "/assessment-4-circle-selector/static/js/2.ec0babb7.chunk.js",
+    "static/js/2.ec0babb7.chunk.js.map": "/assessment-4-circle-selector/static/js/2.ec0babb7.chunk.js.map",
+    "index.html": "/assessment-4-circle-selector/index.html",
+    "precache-manifest.435967fa694212072327e656a3375511.js": "/assessment-4-circle-selector/precache-manifest.435967fa694212072327e656a3375511.js",
+    "service-worker.js": "/assessment-4-circle-selector/service-worker.js",
+    "static/css/main.2ddb3bd6.chunk.css.map": "/assessment-4-circle-selector/static/css/main.2ddb3bd6.chunk.css.map",
+    "static/js/2.ec0babb7.chunk.js.LICENSE": "/assessment-4-circle-selector/static/js/2.ec0babb7.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.09569dc3.js",
+    "static/js/2.ec0babb7.chunk.js",
+    "static/css/main.2ddb3bd6.chunk.css",
+    "static/js/main.e927a536.chunk.js"
+  ]
+}
