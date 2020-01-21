@@ -1,4 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+#### [Deployed Link](https://naomiskevo.github.io/assessment-4-circle-selector)
+
 # Assessment Prompt
 
 The application, as you will soon see, required that I code two components, `<CircleSelector>` and `<Circles>`, and render them within the existing `<App>` component.
@@ -12,13 +15,5 @@ In addition, the button clicked within `<CircleSelector>` has its text changed a
 The goal of this assessment was to gauge my ability to develop a minimal ReactJS application that renders user-defined components, incorporating dynamic styling and reacts to some basic user interaction.
 
 
-
-
-
-
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
 
 
